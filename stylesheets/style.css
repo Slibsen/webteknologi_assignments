@@ -1,6 +1,6 @@
 .topnav
 {
-    border-color: gray;
+    border-color: rgb(27, 26, 26);
     overflow: hidden;
 }
 .topnav a
@@ -14,12 +14,12 @@
 }
 .topnav a:active
 {
-    background-color: red;
+    background-color: rgb(38, 0, 255);
     color: black;
 }
 .topnav a:hover
 {
-    background-color: red;
+    background-color: rgb(38, 0, 255);
     color: black;
 }
 
