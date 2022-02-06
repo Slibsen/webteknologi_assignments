@@ -17,6 +17,11 @@
     background-color: red;
     color: black;
 }
+.topnav a:hover
+{
+    background-color: red;
+    color: black;
+}
 
 
 pre {
